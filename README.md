@@ -17,7 +17,7 @@ In diesem Repository findet ihr **Bibliotheken und Beispiel-Codes**, mit denen d
 Das Repository basiert grundlegend auf den veröffentlichten Informationen und Codes von Seeed Studio. 
 Die deutsche Übersetzung stammt von [Make Your School](https://www.makeyourschool.de/). Fehlinterpretationen und Änderungen vorbehalten. Die Informationen dürfen frei genutzt, angepasst und verbreitet werden, solange die [Nutzungsrechte von Seeed Studio](https://github.com/Seeed-Studio/Grove_Dust_Sensor/blob/master/License.txt) beachtet werden. 
 
-*Weitere Informationen:*
+**Weitere Informationen:**
 
 [Repository von Seed Studio](https://github.com/Seeed-Studio/)
 
