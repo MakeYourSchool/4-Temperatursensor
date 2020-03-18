@@ -17,8 +17,8 @@ In diesem Repository findet ihr **Bibliotheken und Beispiel-Codes**, mit denen d
 Das Repository basiert grundlegend auf den veröffentlichten Informationen und Codes von Seeed Studio. 
 Die deutsche Übersetzung stammt von [Make Your School](https://www.makeyourschool.de/). Fehlinterpretationen und Änderungen vorbehalten. Die Informationen dürfen frei genutzt, angepasst und verbreitet werden, solange die [Nutzungsrechte von Seeed Studio](https://github.com/Seeed-Studio/Grove_Dust_Sensor/blob/master/License.txt) beachtet werden.
 
-Repository von Seed Studio:                               [Seeed Studio Github - Grove Dust Sensor](https://github.com/Seeed-Studio/Grove_Dust_Sensor)
+[Repository von Seed Studio](https://github.com/Seeed-Studio)
 
-Offizielles Wiki von Seed Studio:                         [Seeed Studio Wiki - Grove Dust Sensor](http://wiki.seeedstudio.com/Grove-Dust_Sensor/)
+[Offizielles Wiki von Seed Studio](http://wiki.seeedstudio.com)
 
-Materialkoffer von Make Your School:   [Make Your School - Feinstaubsensor](https://www.makeyourschool.de/material/feinstaubsensor/)
+[Materialkoffer von Make Your School](https://www.makeyourschool.de/material)
