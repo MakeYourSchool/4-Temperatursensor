@@ -4,6 +4,8 @@ Temperatursensor
 
 <img src=https://www.makeyourschool.de/wp-content/uploads/2018/08/4_temperatursensor-1024x1024.jpg width=400px>
 
+Bildquelle: *Wissenschaft im Dialog*
+
 Der Temperatursensors misst die Temperatur mit einem sogenannten Thermistor. Dies ist ein elektrischer Widerstand, der sich ändert, je nachdem welche Temperatur ihn umgibt.  Mit einer entsprechenden Schaltung wird diese Widerstandsänderung in eine analoge Spannung umgewandelt. Diese analoge Spannung kann von einem Mikrocontroller ausgelesen werden. Schließlich kann über mathematische Zusammenhänge die Temperatur ausgerechnet werden. Dieser Temperatursensor erfasst Temperaturen zwischen -40 °C und 125 °C und verfügt über eine Genauigkeit von  1,5 °C.
 
 Der Sensor kann direkt oder mithilfe des Grove Shields an einen Arduino angeschlossen werden. Um den Sensor an einen Raspberry Pi anzuschließen, wird das Grove Shield benötigt. Der Sensor kommuniziert über einen analogen Pin.
